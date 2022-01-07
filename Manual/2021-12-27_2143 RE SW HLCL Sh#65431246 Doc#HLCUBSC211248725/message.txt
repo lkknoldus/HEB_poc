@@ -1,0 +1,86 @@
+From: Aldona Kozian <aldona.kozian@icetransport.com>
+To: "DOC.USBSC@CSD.HLAG.COM" <DOC.USBSC@CSD.HLAG.COM>
+CC: 
+Subject: RE: SW HLCL Sh#65431246 Doc#HLCUBSC211248725
+Date: Mon, 27 Dec 2021 21:43:11 +0530
+-----------------
+
+Hello,
+
+Please change vessel to show QUEBEC EXORESS 72E51 as our booking has been rolled.
+
+
+Best Regards,
+Aldona Kozian
+ 
+ 
+        
+
+Aldona Kozian
+I.C.E. Transport Co., Inc.
+p:
+(732) 516-9555 x. 324
+f:
+(732) 516-9777
+a:
+219 South Street, Suite 100
+ 
+New Providence, NJ 07974
+w:
+icetransport.com  e: aldona.kozian@icetransport.com
+      
+
+ 
+Click here to watch a video overview of our services.
+ 
+The information transmitted by this email is intended only for the person or entity to which it is addressed. This email may contain proprietary, business-confidential and/or privileged material. If you are not the intended recipient of this message, be aware that any use, review, retransmission, distribution, reproduction or any action taken in reliance upon this message is strictly prohibited. If you received this in error, please contact the sender and delete the material from all computers.
+ 
+
+
+-----Original Message-----
+From: DOC.USBSC@CSD.HLAG.COM <DOC.USBSC@CSD.HLAG.COM> 
+Sent: Monday, December 6, 2021 8:16 AM
+To: Aldona Kozian <aldona.kozian@icetransport.com>
+Subject: SW HLCL Sh#65431246 Doc#HLCUBSC211248725
+
+Dear Customer,
+
+Here is your BL/SWB DRAFT!
+
+>>>NEW WEB SOLUTION ALERT<<<
+
+Did you know that you can now review and approve your BL Drafts in an instant?
+Use our web solution and approve your BL Drafts much faster and easier than before.
+
+Try it out with your document right here and now:
+https://solutions.hapag-lloyd.com/bl-draft-approval/#/bldraft/HLCUBSC211248725/
+
+Not sure what this is about?
+Learn more about BL Draft Approval here:
+https://www.hapag-lloyd.com/en/landingpage/bl-draft-approval.html
+
+Or continue using attached PDF version of your BL/SWB DRAFT
+
+Attached you receive the following BL/SWB DRAFT as PDF:
+
+DOC-NO          : HLCUBSC211248725
+VOYAGE NO       : 277016
+SHIP'S NAME     : TORONTO EXPRESS
+SUBJECT         : SW HLCL Sh#65431246 Doc#HLCUBSC211248725
+SH-NAME         : I.C.E. TRANSPORT CO. INC.
+SH-REFERENCE    : E016080
+CU-REFERENCE    :
+CN-REFERENCE    :
+RP-REFERENCE    :
+SHIPMENT        : 65431246
+SCHEDULE-NO     : 39E50
+CONTAINER NOS-01: TCLU  4094860
+CONTAINER NOS-02:
+CONTAINER NOS-03:
+CONTAINER NOS-04:
+ISSUER          : PEACHTREE CORNERS
+REPLY-TO        :
+
+Yours sincerely,
+Hapag-Lloyd
+
